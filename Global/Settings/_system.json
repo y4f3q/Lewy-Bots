@@ -1,7 +1,7 @@
 {
   "SERVER": {
-    "ID": "1114288676436967485",
-    "Name": "The Eventus",
+    "ID": "",
+    "Name": "",
     "Install": false
   },
   "PACKAGE": {
@@ -23,16 +23,16 @@
     ]
   },
   "TOKENS": {
-    "Statistics": "MTA3NzE5NDUzOTczNzA0Mjk1NQ.GmYh6R.X6uQSr-FdQinmasN6bM2laYQR687RI49bfxyZs",
-    "Voucher":"MTA3NzE5NDU2NTA5OTk3ODgxMg.GW_hHg.8_4RaMJvmIYeKcRZc_TNsRFQgZWoFZOpKaCB6E",
-    "SYNC": "MTA3NzE5NDU5ODc2NzY2MTEyNw.GPVH5p.pmAHDjL0N8javGwhQCjkTS5VQYbB7VITMrnhD8",
-    "CONTROLLER": "MTA3NzkzNzI3ODU4NTkzMzg5Ng.GLxIXT.iRhqeYuvYWMDuxxWylA7DrmJu95J9v0ANyV3hk",
+    "Statistics": "",
+    "Voucher":"",
+    "SYNC": "",
+    "CONTROLLER": "",
     "SECURITY": {
-      "MAIN": "MTA4MDUzNzI2MzI5NDkxMDY0NA.G9USEW.N9CZY9550bgHqDyr3khwcuixsxP6zmq-XyoY38",
-      "SEC_ONE": "MTA3ODYwMTcyOTYzOTIwNjk1Mg.GpozyJ.h4D0sxVW31O0Tn6sAFbsmHlrJ83lvZC1AVDQEo",
-      "SEC_TWO": "MTA3ODYxMTI2MzQ5NzcxNTcyMg.GGuFJr.SoqWpp2o7IqYOdbUDp19H9xXiBrLjdyMEEK9dk",
+      "MAIN": "",
+      "SEC_ONE": "",
+      "SEC_TWO": "",
       "DISTS": [
-        "MTEwMTIzMDA5MTYwODAxODk4NQ.Gqbfy-.K74ttevRgVZ1i7gBta8zV2u0JvLro44vGI59NY"
+        ""
       ]
     },
     "WELCOME": {
@@ -53,16 +53,16 @@
     ]
   },
   "Webclient": {
-    "clientID": "1077194565099978812",
-    "secret": " RlGAjQA4G4jA6vP9kRngCXT_XOuaiQc1",
-    "callbackURL": "http://91.151.83.169:4939/callback"
+    "clientID": "",
+    "secret": "",
+    "callbackURL": ""
   },
   "botStatus": {
     "Status": "dnd",
-    "Name": "The Eventus ✦ Creatéd by Lewy #Season2"
+    "Name": ""
   },
   "Database": {
     "Active": true,
-    "MongoURL": "mongodb+srv://asosyalteam72:FGs6DVJiHNyPclzA@cluster0.lgllgvj.mongodb.net/lewyfx?retryWrites=true&w=majority"
+    "MongoURL": ""
   }
 }
